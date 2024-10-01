@@ -14,6 +14,34 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
+🎓 **Master's in Data Science**  
+💻 **AI/ML Engineer**  
+
+I'm passionate about **artificial intelligence**, **machine learning**, and **data science**. My work focuses on developing and deploying AI/ML models to solve real-world problems.
+
+## 🔭 What I'm working on:
+- Building machine learning models for real-world applications
+- Developing end-to-end AI/ML pipelines
+- Exploring new technologies in AI, deep learning, and data science
+
+## 💼 Experience & Skills:
+- **Programming Languages**: Python, R, SQL
+- **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, Keras
+- **Data Science**: Data wrangling, Exploratory Data Analysis (EDA), Visualization, Model building
+- **Deep Learning**: Neural Networks, CNNs, RNNs
+- **Cloud Platforms**: AWS, Google Cloud, Azure
+- **Version Control**: Git, GitHub
+- **Other Tools**: Docker, Kubernetes
+
+## 🌱 What I'm learning:
+- Advanced NLP techniques
+- Reinforcement learning
+- AI ethics and fairness
+
+## 👯 I'm looking to collaborate on:
+- Open-source AI/ML projects
+- Data science and analytics challenges
+- AI/ML research
 
 <!-- GitHub Trophies -->
 <p align="center">
