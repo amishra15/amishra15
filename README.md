@@ -1,32 +1,50 @@
-<h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
+[![GitHub ReadMe Header](https://github.com/MarieLynneBlock/MarieLynneBlock/blob/master/header/banner_code.gif)](https://github.com/MarieLynneBlock/animated-banner_github)
+## Hej there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+
+<!-- Stats Dashboard -->
+
+<!-- Streak -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MarieLynneBlock&theme=nord&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200"/>
+  </a>
 </p>
 
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=MarieLynneBlock&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
+  </a> 
 </p>
 
-<!-- Other Tools
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="git">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" title="java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="50px" title="bootstrap">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px" title="r">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="mongodb">
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" width="50px" title="ruby">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MarieLynneBlock&theme=nord&&column=9&row=1" />
+  </a>
+</p>
+
+<br>
+
+<!-- TODO: personalise and style
+<p align="center">
+  <a href="https://github.com/marielynneblock/github-readme-stats">
+    <img height="250" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarieLynneBlock&theme=nord&langs_count=8&layout=donut-vertical&border_radius=0"/>
+  </a>
+  <a href="https://github.com/marielynneblock/github-readme-stats">
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=MarieLynneBlock&theme=nord&border_radius=0&card_width=190&ring_color=88C0D0&include_all_commits=true&rank_icon=percentile&show=reviews" />
+  </a> 
+</p> 
 -->
-  
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
-  </p>
-</div>
+
+<!-- Visitors badge -->
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarieLynneBlock">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarieLynneBlock&label=visitors&labelColor=%232d3440&countColor=%2380a0c0&style=flat-square" />
+  </a>
+</p>
+
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
