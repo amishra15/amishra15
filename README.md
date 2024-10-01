@@ -1,6 +1,8 @@
-[![GitHub ReadMe Header](https://github.com/MarieLynneBlock/MarieLynneBlock/blob/master/header/banner_code.gif)](https://github.com/MarieLynneBlock/animated-banner_github)
-## Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## GitHub Stats
 
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+ -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
 <!-- GitHub Trophies -->
 <p align="center">
