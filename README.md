@@ -15,7 +15,7 @@
 </pre>
 
 🎓 **Master's in Data Science**  
-💻 **AI/ML Engineer**  
+💻 **Data Scientist**  
 
 I'm passionate about **artificial intelligence**, **machine learning**, and **data science**. My work focuses on developing and deploying AI/ML models to solve real-world problems.
 
